@@ -1,8 +1,13 @@
 {
-  "posts": [
+  "users": [
     {
-      "id": 1,
-      "title": "hello"
+      "id": "120803",  
+      "first_name": "Gheorghe",
+      "last_name": "Vasile",
+      "email": "vasilegigel@gmail.com",
+      "birth_date": "2003-08-12",
+      "pets": ["pisica", "caine"]
+}
     }
   ],
   "profile": {
